@@ -1,4 +1,4 @@
-# JAG Movies
+# cool movies
 
 Dark gold streaming site — pstream-inspired design, Cloudflare Pages ready.
 
@@ -64,7 +64,7 @@ TMDB_KEY: 'YOUR_TMDB_API_KEY_HERE',
 
 ## Features
 
-- 🔐 Password gate (`minceraftsmp`)
+- 🔐 Password gate 
 - 🎬 Hero banner — 7 trending, auto-rotates every 7.5 s with dot nav
 - ⏯️ Continue Watching row with gold progress bars (localStorage)
 - 📺 Rows: Trending, Top Rated, Action, Comedy, Horror, Sci-Fi, Popular Series
